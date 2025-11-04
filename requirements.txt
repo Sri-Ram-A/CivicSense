@@ -1,0 +1,19 @@
+# Core Libraries
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+wordcloud
+
+# NLP and Text Processing
+nltk
+textblob
+emoji
+contractions
+
+# Machine Learning / Feature Extraction
+scikit-learn
+
+# Optional utilities
+kagglehub
