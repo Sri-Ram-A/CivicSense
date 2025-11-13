@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/SriRam.A/Documents/sr_proj/CivicSense/mlruns/983739199380202635/099629d8ee764adaa0b37dcf8c17a583/artifacts
+end_time: 1762949139525
+entry_point_name: ''
+experiment_id: '983739199380202635'
+lifecycle_stage: active
+run_id: 099629d8ee764adaa0b37dcf8c17a583
+run_name: bedecked-colt-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762949139474
+status: 4
+tags: []
+user_id: SriRam.A

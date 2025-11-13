@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/SriRam.A/Documents/sr_proj/CivicSense/mlruns/983739199380202635/f83edd24046c4ea881b5db5b2957a266/artifacts
+end_time: 1762949120031
+entry_point_name: ''
+experiment_id: '983739199380202635'
+lifecycle_stage: active
+run_id: f83edd24046c4ea881b5db5b2957a266
+run_name: beautiful-lamb-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762949119988
+status: 4
+tags: []
+user_id: SriRam.A

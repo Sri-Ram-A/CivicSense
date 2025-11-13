@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/SriRam.A/Documents/sr_proj/CivicSense/mlruns/983739199380202635/models/m-bf5a7547378c409abad935012a84720e/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.13.5
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.7.0+cu126
+mlflow_version: 3.6.0
+model_id: m-bf5a7547378c409abad935012a84720e
+model_size_bytes: 2685913
+model_uuid: m-bf5a7547378c409abad935012a84720e
+prompts: null
+run_id: aca4c2e92a214dfbb2d4a97311bcdbeb
+utc_time_created: '2025-11-12 12:06:41.704152'

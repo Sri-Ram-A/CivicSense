@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/SriRam.A/Documents/sr_proj/CivicSense/mlruns/983739199380202635/models/m-c861a83c1ef84fdebfee7bbb7dba40c6/artifacts
+creation_timestamp: 1762949239277
+experiment_id: '983739199380202635'
+last_updated_timestamp: 1762949243643
+model_id: m-c861a83c1ef84fdebfee7bbb7dba40c6
+model_type: null
+name: checkpoint_2
+source_run_id: aca4c2e92a214dfbb2d4a97311bcdbeb
+status: 2
+status_message: null
